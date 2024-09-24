@@ -34,5 +34,7 @@ function printAll(names, tests, scores){
     }
     return;
   }
+
+  export {printAll};
   
   
